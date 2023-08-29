@@ -8,3 +8,6 @@ var i;
 if(i > 0)
   console.log('Hello');
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Build Portfolio Site
+- [ ] Share with the world
